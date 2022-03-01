@@ -1,0 +1,1 @@
+export default [41.015137, 28.979530] //latitude and longitude coordinates for Istanbul
